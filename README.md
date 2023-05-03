@@ -4,6 +4,6 @@
 
 Follow the story of Martin as he discovers hidden loves, warring friends, and corrupt powers in the opening act of 'The Tragedy of This'.
 
-![The Tragedy of This](00.png)
 ![The Tragedy of This](01.png)
+![The Tragedy of This](00.png)
 
